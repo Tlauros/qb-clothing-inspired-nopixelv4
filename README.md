@@ -1,5 +1,7 @@
 Hello, Dev Fivem today I am going to Fixed and adding Features another UI script. **This is a modified UI version of [**qb-clothing**](https://github.com/qbcore-framework/qb-clothing) and it's totally free.** 
+<br>
 UI : https://github.com/Reload-X
+<br>
 Fix and Add Features (Blacklist) By : https://github.com/Tlauros
 ![image](https://github.com/Reload-X/qb-clothing/assets/167034229/555afdc0-bd5d-4d46-852d-f3b78287ecdf)
 
