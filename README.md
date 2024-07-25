@@ -1,5 +1,5 @@
 # qb-clothing-inspired-v4
-this resource : qb-clothing edit inspired from No Pixel v4 with ( Blackist Clothes ) 
+this resource : qb-clothing inspired from No Pixel v4 (Css) with ( Blackist Clothes ) 
 I just had fix bugs and added features
 You can see on ```Config.lua```:
 ```
