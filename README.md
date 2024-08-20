@@ -131,3 +131,5 @@ Config.Blacklist = { ---Config
 * Add the following code to your server.cfg/resources.cfg
 
   `ensure qb-clothing`
+
+  Discord : tlauros#5905
